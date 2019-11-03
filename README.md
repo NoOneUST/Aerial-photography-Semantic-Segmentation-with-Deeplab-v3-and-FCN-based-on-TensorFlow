@@ -38,7 +38,7 @@ GPU |4 way RTX 2080Ti
 CUDA |10.0
 Tensorflow| 1.13
 
-## Method to use
+## Command to use
 
 ```
 Train:
