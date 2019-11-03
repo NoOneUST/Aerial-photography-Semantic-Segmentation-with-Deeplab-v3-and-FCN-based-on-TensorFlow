@@ -6,7 +6,7 @@ In this work, we do semantic segmentation based on Google's Deeplab V3+ to class
 ```The IOU on each category is 0.214 0.88 0 0.524 0.83 0.686 0.428 respectively.```
 
 ## Experiment Result
-![image1](https://github.com/NoOneUST/Aerial-photography-Semantic-Segmentation-with-Deeplab-v3-based-on-TensorFlow/blob/master/images/%E5%9B%BE%E7%89%871.png)
+![image1](./images/%E5%9B%BE%E7%89%871.png)
 
 ## Model Parameters
 Parameter | values
