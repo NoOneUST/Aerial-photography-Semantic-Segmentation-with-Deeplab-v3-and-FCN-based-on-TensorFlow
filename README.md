@@ -1,7 +1,26 @@
 # Aerial photography Semantic Segmentation with Deeplab v3+ based on TensorFlow
 
+## Overview
 In this work, we do semantic segmentation based on Google's Deeplab V3+ to classify different areas like the lawn, houses, rivers and roads, etc. on our private aerial images. Our mean IOU is 0.5081. The IOU on each category is 0.214 0.88 0 0.524 0.83 0.686 0.428 respectively.
- 
+
+## Experiment Environment
+Parameter | values
+----------|---------|
+Linear ratio to deal with data unbalance| 7 4 0 19 5.5 3 16|
+Parameters values
+number clones 3
+base learning rate 0.0001
+learning rate decay factor 0.1
+learning rate decay step 2000
+training number of steps 30000
+momentum 0.9
+train batch size 15
+weight decay 0.00004
+train crop size [513, 513]
+evaluation crop size [801, 1201]
+atrous rate 6/12/18
+output stride 16
+visual output stride 4
 
 ```
 Train:
