@@ -1,4 +1,5 @@
-# Aerial-photography-Semantic-Segmentation-with-Deeplab-v3-based-on-TensorFlow
+# Aerial-photography-Semantic-Segmentation-with-Deeplab-v3-based-on-TensorFlow'
+'''
 Train:
 
 --logtostderr \
@@ -81,7 +82,7 @@ TASK2 Test Transform:
 
 
 Original Dataset Transform:
-
+'''
 --image_folder="~/Tensorflow_Models/models/research/deeplab/datasets/pascal_voc_seg/VOCdevkit/VOC2012/JPEGImages" \
 --semantic_segmentation_folder="~/Tensorflow_Models/models/research/deeplab/datasets/pascal_voc_seg/VOCdevkit/VOC2012/SegmentationClassRaw" \
 --list_folder="~/Tensorflow_Models/models/research/deeplab/datasets/pascal_voc_seg/VOCdevkit/VOC2012/ImageSets/Segmentation" \
