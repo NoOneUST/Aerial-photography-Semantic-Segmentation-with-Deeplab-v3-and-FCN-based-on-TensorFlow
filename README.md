@@ -7,11 +7,11 @@ In this work, we do semantic segmentation based on Google's Deeplab V3+ to class
 
 ## Experiment Result
 ![image1](./images/图片1.png)
-![image1](./images/%E5%9B%BE%E7%89%871.png)
-![image1](./images/%E5%9B%BE%E7%89%871.png)
-![image1](./images/%E5%9B%BE%E7%89%871.png)
-![image1](./images/%E5%9B%BE%E7%89%871.png)
-![image1](./images/%E5%9B%BE%E7%89%871.png)
+![image2](./images/图片2.png)
+![image3](./images/图片3.png)
+![image4](./images/图片4.png)
+![image5](./images/图片5.png)
+![image6](./images/图片6.png)
 
 ## Model Parameters
 Parameter | values
