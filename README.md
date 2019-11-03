@@ -5,7 +5,7 @@ In this work, we do semantic segmentation based on Google's Deeplab V3+ to class
 Our mean IOU is 0.5081. 
 The IOU on each category is 0.214 0.88 0 0.524 0.83 0.686 0.428 respectively.
 
-## Experiment Environment
+## Model Parameters
 Parameter | values
 ----------|---------|
 data unbalance ratio| [7, 4, 0, 19, 5.5, 3, 16]|
@@ -22,6 +22,13 @@ evaluation crop size| [801, 1201]
 atrous rate| 6/12/18
 output stride |16
 visual output stride| 4
+
+## Experiment Platform
+Parameters| values|
+---|---|
+GPU |4Way RTX 2080Ti
+CUDA |10.0
+Tensorflow| 1.13
 
 ```
 Train:
