@@ -7,8 +7,6 @@ In this work, we do semantic segmentation based on Google's Deeplab V3+ to class
 
 ```The IOU on each category is 0.214 0.88 0 0.524 0.83 0.686 0.428 respectively.```  
 
-Due to the space limitation, for the complete code, please refer to this [onedrive link](https://hkustconnect-my.sharepoint.com/:f:/g/personal/lwangcg_connect_ust_hk/Evh_VldJaW9IqOvIq0BGEQMBt5iIgNn1gT2F2mzexVa-gQ?e=iVPzkr
-).
 
 ## Experiment Result
 ![image1](./images/图片1.png)
