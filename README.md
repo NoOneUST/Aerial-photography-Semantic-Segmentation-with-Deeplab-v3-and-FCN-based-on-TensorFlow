@@ -5,6 +5,9 @@ In this work, we do semantic segmentation based on Google's Deeplab V3+ to class
 ```Our mean IOU is 0.5081.  ```  
 ```The IOU on each category is 0.214 0.88 0 0.524 0.83 0.686 0.428 respectively.```
 
+## Experiment Result
+![image1]('./images/图片1.png')
+
 ## Model Parameters
 Parameter | values
 ----------|---------|
