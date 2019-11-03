@@ -104,7 +104,7 @@ Visual:
 --max_number_of_iterations=1
 
 
-TASK2 DataSet Transform:
+DataSet Transform:
 
 --image_folder="~/Tensorflow_Models/models/research/deeplab/datasets/pascal_voc_seg/VOCdevkit/VisionTask2/JPEGImages" \
 --semantic_segmentation_folder="~/Tensorflow_Models/models/research/deeplab/datasets/pascal_voc_seg/VOCdevkit/VisionTask2/SegmentationClassRaw" \
@@ -113,7 +113,7 @@ TASK2 DataSet Transform:
 --output_dir="~/Tensorflow_Models/models/research/deeplab/datasets/pascal_voc_seg/tfrecord"
 
 
-TASK2 Test Transform:
+Test Transform:
 
 --image_folder="~/Tensorflow_Models/models/research/deeplab/datasets/pascal_voc_seg/VOCdevkit/VisionTask2/JPEGImages" \
 --semantic_segmentation_folder="~/Tensorflow_Models/models/research/deeplab/datasets/pascal_voc_seg/VOCdevkit/VisionTask2/SegmentationClassRaw" \
