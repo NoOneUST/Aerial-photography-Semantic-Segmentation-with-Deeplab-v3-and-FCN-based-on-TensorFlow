@@ -1,4 +1,4 @@
-# Aerial photography Semantic Segmentation based on Deeplab v3+ with TensorFlow
+# Aerial photography Semantic Segmentation based on Deeplab v3+ and FCN with TensorFlow
 
 ## Overview
 In this work, we do semantic segmentation based on Google's Deeplab V3+ to classify different areas like lawn, house, river and road, etc. on our own aerial image database.  
